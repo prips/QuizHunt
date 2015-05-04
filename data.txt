@@ -1,0 +1,4 @@
+{"score": "40", "type": "MCQ", "description": "what time is it?", "choices" : [ {"option1" : "answer1"} , {"option2" : "answer2"}, {"option3" : "answer3"}] ,"question_id": "1"}
+{"score": "20", "type": "short", "description": "what color is it?", "question_id": "2"}
+{"score": "20", "type": "bug", "description": "find the bug", "question_id": "3"}
+{"score": "20", "type": "image", "description": "http://localhost:8000/Amy.png", "question_id": "4"}
